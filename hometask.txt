@@ -1,1 +1,11 @@
 Различия в файле README в первой строчке, в в ветке master есть  with nice buttons on his jacket (buttons branch), а в demo нет
+
+старые commit
+heat added
+
+мои commit(просто так добавила)
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
++add file
